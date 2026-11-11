@@ -1,0 +1,9 @@
+{
+  "name": "workshop-d2c-softys",
+  "version": "1.0.0",
+  "description": "Plataforma interactiva del Workshop E-Commerce D2C Chile (Softys · Initiative · Infracommerce)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "private": true
+}
