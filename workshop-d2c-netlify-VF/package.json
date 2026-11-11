@@ -1,0 +1,8 @@
+{
+  "name": "workshop-d2c-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Workshop E-Commerce D2C Chile · Softys · Initiative · Infracommerce",
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
