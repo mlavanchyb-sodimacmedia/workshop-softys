@@ -1,7 +1,0 @@
-[build]
-  publish = "public"
-  command = "echo 'Sin compilación'"
-
-[functions]
-  directory = "netlify/functions"
-  node_bundler = "esbuild"
